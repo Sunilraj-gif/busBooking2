@@ -26,6 +26,12 @@ button {
 	cursor: pointer;
 }
 
+body{
+	background-image: url(bus3.jpg);
+	background-size: cover;
+	background-blend-mode: darken;
+}
+
 button:hover {
 	background-color: #3e8e41;
 }

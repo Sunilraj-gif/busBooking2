@@ -10,6 +10,14 @@ const bookSchema = new mongoose.Schema({
         type:String,
         required:true
     },
+    phoneNumber:{
+        type:String,
+        required:true
+    },
+    Email:{
+        type:String,
+        required:true
+    },
     bookSeat:{
         type:String,
         required:true

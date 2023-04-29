@@ -26,4 +26,9 @@ label {
   input[type="submit"]:hover {
     background-color: #3e8e41;
   }
+ 
+  .form-data{
+    display: flex;
+    justify-content: center;
+  }
   
